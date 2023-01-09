@@ -1,15 +1,14 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <br><br>
-  <h1>println("Hi there 👋, I'm Kevin Celis")</h1>
-  <h3>A Colombian developer with a passion for Android development, full stack development and hiking.</h3>
-</div>
+  <h1>println("Hi, I'm Kevin Celis 👋")</h1>
+  <h3>A Colombian developer passionate about Android development, full stack development and hiking.</h3>
 
 <div id="post" align="left">
   <h2>About me</h2>
   <ul type=”A”>
     <li>📫 I'm from Tunja - Colombia.</li>
-    <li>👩‍💻 I'm Studying System and Computer Engineering at UPTC.</li>
+    <li>👩‍💻 I study Systems and Computer Engineering at UPTC.</li>
     <li>🔭 I'm a freelancer programmer.</li>
   </ul>
 </div>
