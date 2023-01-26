@@ -5,7 +5,7 @@
   <h3>A Colombian developer passionate about Android development, full stack development and hiking.</h3>
 
 <div id="post" align="left">
-  <h2>About me</h2>
+  <h2>About me:</h2>
   <ul type=”A”>
     <li>📫 I'm from Tunja - Colombia.</li>
     <li>👩‍💻 I study Systems and Computer Engineering at UPTC.</li>
